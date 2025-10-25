@@ -1,0 +1,47 @@
+# ============================
+# AI Weather App Requirements
+# ============================
+
+# Core Python Libraries
+requests
+python-dotenv
+
+# Web Framework (choose one)
+flask
+# fastapi
+# uvicorn[standard]
+
+# Optional UI Framework (comment/uncomment as needed)
+streamlit
+
+# AI & NLP Models
+openai
+transformers
+torch
+
+# Data Visualization
+matplotlib
+plotly
+
+# Utility Tools
+pandas
+numpy
+
+# For handling async tasks (if using FastAPI)
+httpx
+
+# For parsing natural language time/date
+dateparser
+
+# For managing cross-origin requests (FastAPI/Flask APIs)
+flask-cors
+
+# To handle JSON-based responses easily
+pydantic
+
+# Optional: improve terminal/log experience
+rich
+
+# ============================
+# End of requirements.txt
+# ============================
